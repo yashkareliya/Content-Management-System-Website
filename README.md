@@ -1,152 +1,69 @@
-Content Management System Website (CMS)
-📌 Project Overview
+# Content Management System Website (CMS)
 
-The Content Management System (CMS) Website is a web-based application developed to manage and update website content dynamically through an admin panel.
-This system allows administrators to modify website pages without changing the source code, making content management efficient and user-friendly.
+## Project Description
+The Content Management System (CMS) Website is a dynamic web application that allows administrators to manage and update website content through an admin panel.  
+This project eliminates the need to modify source code for content updates and provides a user-friendly interface for managing website pages.
 
-This project was developed as an academic project for college submission.
+This project is developed as an **academic project** for college submission.
 
-🎯 Objectives
+---
 
-To develop a dynamic website with centralized content control
+## Objectives
+- To design a dynamic and manageable website
+- To provide an admin panel for content control
+- To reduce manual changes in source code
+- To implement backend logic using PHP and SQL
+- To understand real-world web application development
 
-To allow administrators to manage website data easily
+---
 
-To reduce manual code changes for content updates
+## Technologies Used
 
-To provide a secure and scalable content management solution
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-🛠️ Technologies Used
-Frontend
+### Backend
+- PHP
 
-HTML
+### Database
+- MySQL / SQL
 
-CSS
+---
 
-JavaScript
+## Features
 
-Bootstrap
+### Admin Panel
+- Secure admin login
+- Dashboard for managing website content
 
-Backend
-
-PHP
-
-Database
-
-MySQL / SQL
-
-⚙️ System Features
-🔐 Admin Panel
-
-Secure admin login
-
-Dashboard for managing website content
-
-📝 Content Management
-
+### Content Management
 Admin can manage:
+- Home page content
+- About Us page
+- Placement page
+- Team page
+- Images and sliders
+- Other dynamic sections
 
-Home Page content
+### Media Management
+- Upload and manage images
+- Update sliders and gallery content
 
-About Us page
+### Dynamic Website
+- Real-time content updates
+- No frontend code changes required
 
-Placement page
+---
 
-Team details
+## Project Modules
+1. Admin Authentication Module  
+2. Content Management Module  
+3. Media Management Module  
+4. Database Management Module  
 
-Image gallery / photos
+---
 
-Sliders and banners
-
-🖼️ Media Management
-
-Upload and update images
-
-Manage sliders and gallery photos
-
-🔄 Dynamic Updates
-
-Real-time content updates
-
-No need to modify frontend code manually
-
-🧩 Project Modules
-
-Admin Authentication Module
-
-Content Management Module
-
-Media Management Module
-
-Database Management Module
-
-📂 Project Structure (Example)
-/cms-project
-│── admin/
-│── assets/
-│── includes/
-│── uploads/
-│── index.php
-│── config.php
-│── database.sql
-
-🗄️ Database Description
-
-Stores admin credentials
-
-Stores page content and media information
-
-Uses relational tables for structured data storage
-
-🚀 How to Run the Project
-
-Install XAMPP / WAMP
-
-Start Apache and MySQL
-
-Import the database using phpMyAdmin
-
-Place the project folder inside htdocs
-
-Open browser and run:
-
-http://localhost/cms-project
-
-
-Access admin panel and manage content
-
-📈 Advantages
-
-Easy to use admin interface
-
-Dynamic and scalable system
-
-Reduces development and maintenance time
-
-Beginner-friendly CMS design
-
-🔮 Future Enhancements
-
-Role-based access control
-
-Improved security features
-
-SEO management module
-
-REST API integration
-
-Enhanced UI/UX
-
-👨‍💻 Developer
-
-Yash Kareliya
-Bachelor of Science in Information Technology
-Atmiya University, Rajkot
-
-GitHub: https://github.com/yashkareliya
-
-LinkedIn: https://www.linkedin.com/in/yash-kareliya
-
-📜 License
-
-This project is developed for educational purposes only.
+## Project Structure
