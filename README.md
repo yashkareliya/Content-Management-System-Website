@@ -66,4 +66,45 @@ Admin can manage:
 
 ---
 
-## Project Structure
+---
+
+## How to Run the Project
+1. Install XAMPP or WAMP server
+2. Start Apache and MySQL services
+3. Import the database using phpMyAdmin
+4. Place the project folder inside the `htdocs` directory
+5. Open browser and run:
+6. Login to admin panel and manage content
+
+---
+
+## Advantages
+- Easy content management
+- Beginner-friendly system
+- Time-saving and efficient
+- Scalable and maintainable
+
+---
+
+## Future Enhancements
+- Role-based access control
+- Improved security features
+- SEO management
+- REST API integration
+- Enhanced UI/UX design
+
+---
+
+## Developer Information
+**Yash Kareliya**  
+Bachelor of Science in Information Technology  
+Atmiya University, Rajkot  
+
+GitHub: https://github.com/yashkareliya  
+LinkedIn: https://www.linkedin.com/in/yash-kareliya  
+
+---
+
+## License
+This project is developed for **educational purposes only**.
+
